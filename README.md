@@ -82,15 +82,9 @@ Thank you for taking the time to visit my profile. I am always looking for new o
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
+<table><tr><td valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-magana&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
