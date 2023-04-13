@@ -79,25 +79,3 @@ Thank you for taking the time to visit my profile. I am always looking for new o
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-magana&hide_border=true&layout=compact" align="left" />
-</tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
