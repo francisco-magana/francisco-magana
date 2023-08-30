@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 I'm a Software Developer Engineer from Chiapas, Mexico.
 
-I am a passionate individual who is always eager to learn and explore new ideas. My interests include problem-solving, teaching, creativity, and teamwork. I believe that every challenge is an opportunity to grow and improve, and I am constantly seeking new challenges to overcome. When I am not working on projects or pursuing my passions, I enjoy spending time with my loved ones, reading books, playing videogames, watching movies, and exploring the outdoors.
+I'm a software engineer who loves coding and creating new things. My interests include problem-solving, teaching, creativity, and teamwork. I believe that every challenge is an opportunity to grow and improve, and I am constantly seeking new challenges to overcome. When I am not working on projects or pursuing my passions, I enjoy spending time with my loved ones, reading books, playing videogames, watching movies, and exploring the outdoors.
 
 Thank you for taking the time to visit my profile. I am always looking for new opportunities to collaborate and learn, so feel free to reach out and connect with me.  
   
