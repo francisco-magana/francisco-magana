@@ -22,7 +22,7 @@ I'm a software engineer who loves coding and creating new things. My interests i
 Thank you for taking the time to visit my profile. I am always looking for new opportunities to collaborate and learn, so feel free to reach out and connect with me.  
 
   ### Visit my personal website.
-  https://francisco-magana.github.io/personal-website/
+  https://www.franciscomagana.dev
 
   ### Visit my bento.
   https://bento.me/francisco-magana
