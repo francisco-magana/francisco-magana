@@ -20,18 +20,6 @@ I'm a Software Engineer from Mexico who loves coding and creating new things. My
 
 Thank you for taking the time to visit my profile. I am always looking for new opportunities to collaborate and learn, so feel free to reach out and connect with me.  
 
-  ### Visit my personal website.
-  https://www.franciscomagana.dev
-
-  ### Visit my bento.
-  https://bento.me/francisco-magana
-
-  ### Some practice projects
-  https://github.com/francisco-magana/are-you-bored - Ideas for bored people <br>
-  https://github.com/francisco-magana/should-i - Should you buy that thing? Answer this questions<br>
-  https://github.com/francisco-magana/clinote-project-page - Do you want to take notes in your teminal?<br>
-  https://github.com/francisco-magana/todolist-react-nextjs - Do you need a minimal TODO list without distractions?<br>
-
 <br/>  
 
 
