@@ -41,7 +41,7 @@ Thank you for taking the time to visit my profile. I am always looking for new o
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align="center" style="width: 100%" />
+<img src="https://art.pixilart.com/02e96f3ccc7c7b9.gif" align="center" style="width: 100%" />
 </div>  
 
 
