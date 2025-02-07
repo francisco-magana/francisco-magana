@@ -26,10 +26,10 @@ Thank you for taking the time to visit my profile. I am always looking for new o
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Nexu  
+- 🔭 I’m currently working at SimplePractice  
   
 
-- 🌱 I’m currently learning Angular in Depth  
+- 🌱 I’m currently learning Ember.js in Depth  
   
 
 - ❓ Ask me about anything related to Front End, teaching and learning  
